@@ -17,4 +17,7 @@ public class DemoCentercfgApplication {
         SpringApplication.run(DemoCentercfgApplication.class, args);
     }
 
+    public void T01(){
+        System.out.println("This is T01 updated！");
+    }
 }
