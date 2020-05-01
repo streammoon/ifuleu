@@ -6,7 +6,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
- * 启动类  -- master V0.4
+ * 启动类  -- master V0.4   --合并分支处理
  */
 @SpringBootApplication
 @EnableConfigServer
