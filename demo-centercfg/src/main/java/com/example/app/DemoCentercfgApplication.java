@@ -16,5 +16,8 @@ public class DemoCentercfgApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoCentercfgApplication.class, args);
     }
+    public void master(){
+        System.out.println("This is master updated!");
+    }
 
 }
