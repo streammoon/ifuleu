@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa4ef5e4-a00f-4a80-ac36-910851bd3197" name="Default Changelist" comment="" />
+    <list default="true" id="aa4ef5e4-a00f-4a80-ac36-910851bd3197" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/demo-centercfg/src/main/java/com/example/app/DemoCentercfgApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-centercfg/src/main/java/com/example/app/DemoCentercfgApplication.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/demo1/target/" />
@@ -30,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-order/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="52" />
+              <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -66,11 +68,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo-centercfg/src/main/java/com/example/app/DemoCentercfgApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,10 +162,10 @@
         <option value="$PROJECT_DIR$/demo-consumer/src/main/java/com/demo/app/service/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/demo-centercfg/pom.xml" />
-        <option value="$PROJECT_DIR$/demo-centercfg/src/main/java/com/example/app/DemoCentercfgApplication.java" />
         <option value="$PROJECT_DIR$/demo-order/pom.xml" />
         <option value="$PROJECT_DIR$/demo-centercfg/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/demo-order/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/demo-centercfg/src/main/java/com/example/app/DemoCentercfgApplication.java" />
       </list>
     </option>
   </component>
@@ -220,8 +226,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,10 +233,47 @@
               <item name="ifuleu" type="b2602c69:ProjectViewProjectNode" />
               <item name="ifuleu" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ifuleu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ifuleu" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-centercfg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ifuleu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ifuleu" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-centercfg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ifuleu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ifuleu" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-centercfg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ifuleu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ifuleu" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-centercfg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ifuleu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ifuleu" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-centercfg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -332,16 +373,18 @@
       <workItem from="1587422393987" duration="9220000" />
       <workItem from="1587438957670" duration="6874000" />
       <workItem from="1588323125485" duration="2244000" />
+      <workItem from="1588328192313" duration="664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37139000" />
+    <option name="totallyTimeSpent" value="37803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1484" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22650771" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22931276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -563,13 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-centercfg/src/main/java/com/example/app/DemoCentercfgApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-consumer/src/main/java/com/demo/app/service/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1210">
@@ -607,7 +643,18 @@
     <entry file="file://$PROJECT_DIR$/demo-order/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="52" />
+          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-centercfg/src/main/java/com/example/app/DemoCentercfgApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
