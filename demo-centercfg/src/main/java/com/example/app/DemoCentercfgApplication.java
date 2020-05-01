@@ -23,5 +23,6 @@ public class DemoCentercfgApplication {
 
     public void T01(){
         System.out.println("This is T01 updated！");
+        System.out.println("this is updated by master");
     }
 }
