@@ -1,9 +1,0 @@
-server:
-  port: 8000
-spring:
-  application:
-    name: demoConsumer
-eureka:
-  client:
-    service-url:
-      defaultZone: http://admin:admin@localhost:10000/eureka/
