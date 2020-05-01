@@ -19,5 +19,6 @@ public class DemoCentercfgApplication {
 
     public void T01(){
         System.out.println("This is T01 updated！");
+        System.out.println("This is uptated by T01=====");
     }
 }
