@@ -37,7 +37,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.60</version>
+            <version>1.2.83</version>
         </dependency>
         <!--客户端需要使用配置中心的依赖jar-->
         <dependency>
